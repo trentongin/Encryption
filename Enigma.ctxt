@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enigma
+comment1.params=
+comment1.target=Enigma()
+comment2.params=input
+comment2.target=Enigma(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ encrypt()
+comment4.params=
+comment4.target=void\ decrypt()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CaesarCipher
+comment1.params=
+comment1.target=CaesarCipher()
+comment2.params=input
+comment2.target=CaesarCipher(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ encrypt()
+comment4.params=
+comment4.target=void\ decrypt()
+comment5.params=
+comment5.target=void\ decryptWithKey()
+comment6.params=
+comment6.target=void\ printKey()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
